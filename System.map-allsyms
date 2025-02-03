@@ -131875,9 +131875,9 @@ ffffffff82ed8bfc d task_index_to_char.state_char
 ffffffff82ed8bfc d task_index_to_char.state_char
 ffffffff82ed8bfc d task_index_to_char.state_char
 ffffffff82ed8bfc d task_index_to_char.state_char
-ffffffff82f006b7 d max_tt_usecs
-ffffffff82f2ca8a d f_midi_longname
-ffffffff82f8e03e d trunc_msg
+ffffffff82f006af d max_tt_usecs
+ffffffff82f2ca82 d f_midi_longname
+ffffffff82f8e036 d trunc_msg
 ffffffff82ffcc91 V __llvm_fs_discriminator__
 ffffffff82ffd80c d rh_string.langids
 ffffffff82ffd818 d pirq_ite_set.pirqmap
