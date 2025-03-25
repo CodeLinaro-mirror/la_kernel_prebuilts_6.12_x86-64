@@ -42,8 +42,11 @@ ptp_kvm.ko
 pwrseq-core.ko
 pps_core.ko
 hci_uart.ko
+btusb.ko
 btsdio.ko
+btintel.ko
 btbcm.ko
+btrtl.ko
 btqca.ko
 gnss.ko
 8021q.ko
