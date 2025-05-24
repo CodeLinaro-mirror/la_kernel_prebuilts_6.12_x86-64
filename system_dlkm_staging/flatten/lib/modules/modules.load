@@ -40,6 +40,7 @@ ftdi_sio.ko
 ptp.ko
 ptp_kvm.ko
 pwrseq-core.ko
+rust_binder.ko
 pps_core.ko
 hci_uart.ko
 btsdio.ko
